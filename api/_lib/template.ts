@@ -106,7 +106,7 @@ function getCss(theme: string, fontSize: string) {
         position: absolute;
         top: 0;
         right: 0;
-        margin: 40px 25px 25px 25px;
+        margin: 80px 25px 25px 25px;
     }
     
     .img-profile {
