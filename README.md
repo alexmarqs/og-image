@@ -30,6 +30,10 @@ It looks like the following:
 </head>
 ```
 
+## Architecture
+
+![Diagram Architecture](/docs/diagram_og.png)
+
 ## Why use this service?
 
 The short answer is that it would take a long time to painstakingly design an image for every single blog post and every single documentation page. And we don't want the exact same image for every blog post because that wouldn't make the article stand out when it was shared to Twitter. 
